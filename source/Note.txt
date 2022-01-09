@@ -1,1 +1,1 @@
-this is my note
+Hello, I am Mohammad Arman Ali. I am a full stack web application developer. I am using javascript & php language for develope web application. 
